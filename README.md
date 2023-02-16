@@ -26,21 +26,30 @@
 
 ## 4. Deploy to EKS Cluster
 
+EKS Cluster에 배포된 목록
+
 ![과제4](https://user-images.githubusercontent.com/55964235/219231070-af1f72d6-f389-426b-800f-f73bc4f2d01f.PNG)
 
 ## 5. Gateway & Service Router
+
+Gateway & Service Router 설치된 목록
 
 ![과제5](https://user-images.githubusercontent.com/55964235/219231095-ebc6527f-1b38-45da-bd15-31d6824d99a0.PNG)
 
 ## 6. Autoscale (HPA)
 
-autoscale 설정한 정보
+siege 사용전
+
 ![과제6 1](https://user-images.githubusercontent.com/55964235/219231093-7f8cd5a5-411e-49a7-b341-8386ec4d539e.PNG)
 
 
+siege사용후
 
-부하를 주어 autocale이 동작한 모습
 ![과제6 3](https://user-images.githubusercontent.com/55964235/219231096-76acc1d7-5a50-437b-ada9-e95be659af88.PNG)
+
+pod 갯수 증가
+
+
 
 ## Model
 www.msaez.io/#/storming/426bb520c5d6524f4667e15c3b156e09
