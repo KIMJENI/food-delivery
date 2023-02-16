@@ -38,17 +38,22 @@ Gateway & Service Router 설치된 목록
 
 ## 6. Autoscale (HPA)
 
-siege 사용전
+1)siege 사용전
 
 ![과제6 1](https://user-images.githubusercontent.com/55964235/219231093-7f8cd5a5-411e-49a7-b341-8386ec4d539e.PNG)
 
 
-siege사용후
+
+
+2)siege사용후
 
 ![과제6 3](https://user-images.githubusercontent.com/55964235/219231096-76acc1d7-5a50-437b-ada9-e95be659af88.PNG)
 
-pod 갯수 증가
 
+
+3)pod 갯수 증가
+
+![과제7](https://user-images.githubusercontent.com/55964235/219241564-0d144e96-2f3a-4123-a819-0145e989a033.PNG)
 
 
 ## Model
