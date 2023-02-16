@@ -34,14 +34,12 @@
 
 ## 6. Autoscale (HPA)
 
-autoscale 설정한 정보이다.
-
+autoscale 설정한 정보
 ![과제6 1](https://user-images.githubusercontent.com/55964235/219231093-7f8cd5a5-411e-49a7-b341-8386ec4d539e.PNG)
 
 
 
-부하를 주어 autocale이 동작한 모습이다.
-
+부하를 주어 autocale이 동작한 모습
 ![과제6 3](https://user-images.githubusercontent.com/55964235/219231096-76acc1d7-5a50-437b-ada9-e95be659af88.PNG)
 
 ## Model
